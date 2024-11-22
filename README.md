@@ -97,11 +97,7 @@ Create a new branch: git checkout -b feature-branch.
 Commit your changes: git commit -m 'Add new feature'.
 Push to the branch: git push origin feature-branch.
 Submit a pull request.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
-For any questions or issues, feel free to open an issue on GitHub or contact Your Name.
 
 Acknowledgments
 Thanks to all contributors and the Laravel community for inspiration and support.
